@@ -58,6 +58,7 @@
     "@stdlib/ndarray-base-shape2strides": "^0.2.2",
     "@stdlib/ndarray-base-strides2offset": "^0.2.2",
     "@stdlib/ndarray-ctor": "^0.2.2",
+    "@stdlib/ndarray-data-buffer": "^0.2.2",
     "@stdlib/ndarray-from-scalar": "^0.2.1",
     "@stdlib/ndarray-to-array": "^0.2.1",
     "@stdlib/ndarray-zeros": "^0.3.0",
